@@ -1,4 +1,5 @@
-INSERT INTO musician(first_name, last_name, date_of_birth, instrument) VALUES
+INSERT INTO musician(first_name, last_name, date_of_birth, instrument)
+VALUES
 	('Arturo', 'Schumacher', '1994-09-17 17:45:58', 'Trombone'),
 	('Chloe', 'McDonald', '1976-04-03 20:20:07', 'Voice'),
 	('Ella', 'Moore', '1962-02-25 04:30:36', 'Saxphone'),
